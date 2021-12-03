@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AntonyFelisberto
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate with my new service colleagues
-- 📫 to reach me just send a message in email:antony.dos.santos.felisberto@gmail.com
-    or github
+## Bem vindo ao meu github
 
-<!---
-Meu nome é antony dos santos felisberto estou cursando analise e desenvolvimento de sistemas e estagiário na Tata Consultancy Services
---->
+<div align="center">
+  <a href="https://github.com/AntonyFelisberto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonyFelisberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyFelisberto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
