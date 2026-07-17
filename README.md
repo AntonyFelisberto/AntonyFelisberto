@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">Meu nome é Antony, sou Full Stack developer, sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar.</p>
 
 ###
 
