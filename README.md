@@ -1,8 +1,10 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Olá! 👋 Eu sou Antony</h1>
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Antony, sou Full Stack developer, sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar.</p>
+<p align="left">
+Sou desenvolvedor Full Stack, responsável por projetar, desenvolver e evoluir aplicações modernas, escaláveis e bem estruturadas. Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar e possuo experiência no desenvolvimento de soluções utilizando Java, Spring Boot, Angular e TypeScript. Atualmente atuo na CI&T, desenvolvendo aplicações hospedadas na Microsoft Azure, com foco em arquitetura, qualidade de código e automação de deploys por meio de pipelines do GitHub. Anteriormente, trabalhei na Tata Consultancy Services (TCS), onde participei do desenvolvimento e manutenção de sistemas corporativos para a empresa vale.
+</p>
 
 ###
 
