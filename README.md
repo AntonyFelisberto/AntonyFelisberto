@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Sou desenvolvedor Full Stack, responsável por projetar, desenvolver e evoluir aplicações modernas, escaláveis e bem estruturadas. Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar e possuo experiência no desenvolvimento de soluções utilizando Java, Spring Boot, Angular e TypeScript. Atualmente atuo na CI&T, desenvolvendo aplicações hospedadas na Microsoft Azure, com foco em arquitetura, qualidade de código e automação de deploys por meio de pipelines do GitHub. Anteriormente, trabalhei na Tata Consultancy Services (TCS), onde participei do desenvolvimento e manutenção de sistemas corporativos para a empresa vale.
+Sou desenvolvedor Full Stack, responsável por projetar, desenvolver e evoluir aplicações modernas, escaláveis e bem estruturadas. Sou formado em Análise e Desenvolvimento de Sistemas pela Unicesumar e possuo experiência no desenvolvimento de soluções utilizando Java, Spring Boot, Angular e TypeScript. Atualmente atuo na Nava, desenvolvendo aplicações hospedadas na GCP (Google Cloud Platform), com foco em arquitetura, qualidade de código e automação de deploys por meio de pipelines do GitHub. Anteriormente, trabalhei na Tata Consultancy Services (TCS), onde participei do desenvolvimento e manutenção de sistemas corporativos para a empresa Vale, também atuei na CI&T realizando a migração e aprimoramento de aplicações Spring e Angular de ambientes on premise para a cloud.
 </p>
 
 ###
@@ -19,7 +19,7 @@ Sou desenvolvedor Full Stack, responsável por projetar, desenvolver e evoluir a
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">Gosto de passar meu tempo tentando me aprimorar ao máximo, gosto bastante de ler mangas e livros, meus gêneros favoritos são dark fantasy e science fiction, entre meus mangas favoritos estão Berserk e Vagabond, além de passar meu tempo lendo gosto de jogar video games, nos quais meus gêneros favoritos são survival horrors</p>
 
 ###
 
